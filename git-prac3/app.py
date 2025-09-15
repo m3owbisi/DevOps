@@ -1,0 +1,5 @@
+print('hello from main branch')
+name = input("enter your name : ")
+print(f"hello, {name}!")
+print("this is branch A")
+print("this is branch B")
